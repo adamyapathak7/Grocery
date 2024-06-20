@@ -1,0 +1,4 @@
+https://api.edamam.com/search?q='burger'&app_id=5877f685&app_key=d57b032f28b4fc856122f896dee0110d
+application id=5877f685
+application-key=d57b032f28b4fc856122f896dee0110d
+text-truncate use to data in dotted form like (hsbi uhdbdc...)

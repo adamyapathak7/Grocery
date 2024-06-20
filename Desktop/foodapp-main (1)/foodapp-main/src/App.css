@@ -1,0 +1,19 @@
+.login{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    width: 600px;
+    margin: auto;
+    margin-top: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+.login{
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    border-radius: 15% 0% 10% 0%;
+}

@@ -1,0 +1,12 @@
+.authPage{
+      height: 92vh;
+      background-image: url("https://c4.wallpaperflare.com/wallpaper/373/952/839/wooden-spoon-condiments-background-wallpaper-preview.jpg")
+}
+
+.authPage form{
+    
+    background-color: rgba(7, 7, 7, 0.5 );
+ color: aliceblue;
+ font-family: 'Times New Roman', Times, serif;
+ 
+}
