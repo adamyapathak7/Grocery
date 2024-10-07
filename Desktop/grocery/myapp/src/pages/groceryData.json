@@ -1,0 +1,125 @@
+[
+    {
+      "id": 1,
+      "name": "Rice",
+      "price": 10.99,
+      "image":  "https://t4.ftcdn.net/jpg/03/09/22/29/360_F_309222978_boIWb07TufCqJ8al1keo6nnXASPsXPsy.jpg",
+      "description": "High quality rice."
+    },
+    {
+      "id": 2,
+      "name": "Wheat Flour",
+      "price": 5.49,
+      "image": "https://t4.ftcdn.net/jpg/01/20/00/55/360_F_120005524_K3y8Ku1CDDsDpQeZqFYgBksKmWDK0RcB.jpg",
+       "description": "Freshly ground wheat flour."
+    },
+    {
+      "id": 3,
+      "name": "Sugar",
+      "price": 2.99,
+      "image": "https://t4.ftcdn.net/jpg/03/19/37/75/360_F_319377582_bE83iovSQCRB79zOL2OnV3cOP4jEA7Qb.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Milk",
+      "price": 1.49,
+      "image": "https://a2milk.com/_next/image?url=https%3A%2F%2Fassets-au-01.kc-usercontent.com%3A443%2Fbca3e5d5-83bd-02bf-1c27-acb036630e5b%2Fa1db477b-e4a7-4b97-ac3c-5cc4bafff62d%2Fa2Milk_glass-mob_sm.png%3Fauto%3Dformat&w=1024&q=75"
+    },
+    {
+      "id": 5,
+      "name": "Olive Oil",
+      "price": 12.99,
+      "image": "https://cdn.pixabay.com/photo/2015/10/02/15/59/olive-oil-968657_1280.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Salt",
+      "price": 0.99,
+      "image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F1185449_1.png&w=1920&q=75"
+    },
+    {
+      "id": 7,
+      "name": "Eggs",
+      "price": 3.49,
+      "image": "https://www.shutterstock.com/image-photo/close-raw-chicken-eggs-paper-260nw-2183387203.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Chicken Breast",
+      "price": 8.99,
+      "image": "https://img.freepik.com/free-photo/uncooked-chicken-breasts-wooden-board-high-quality-photo_114579-69086.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Potatoes",
+      "price": 2.50,
+      "image": "https://www.shutterstock.com/image-photo/fresh-potatoes-wooden-box-260nw-2469950225.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Tomatoes",
+      "price": 3.99,
+      "image": "https://cdn.pixabay.com/photo/2016/03/26/16/44/tomatoes-1280859_640.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Lettuce",
+      "price": 1.99,
+      "image": "https://t4.ftcdn.net/jpg/00/65/87/83/360_F_65878343_TGGeBoi4SVlJxUt7xczpwSj2Ayfc4LbN.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Onions",
+      "price": 1.29,
+      "image": "https://w7.pngwing.com/pngs/546/145/png-transparent-red-onions-raw-foodism-organic-food-shallot-red-onion-vegetable-onion-natural-foods-leaf-vegetable-food-thumbnail.png"
+    },
+    {
+      "id": 13,
+      "name": "Bananas",
+      "price": 0.59,
+      "image": "https://static.thip.media/wp-content/uploads/2022/08/17105909/bananas-1068x711.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Apples",
+      "price": 1.49,
+      "image": "https://images.pexels.com/photos/209439/pexels-photo-209439.jpeg?cs=srgb&dl=pexels-pixabay-209439.jpg&fm=jpg"
+    },
+    {
+      "id": 15,
+      "name": "Oranges",
+      "price": 1.99,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Orange-Fruit-Pieces.jpg/2560px-Orange-Fruit-Pieces.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Yogurt",
+      "price": 0.89,
+      "image": "https://media.post.rvohealth.io/wp-content/uploads/2021/10/fruit-berries-yogurt-732x549-thumbnail.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Pasta",
+      "price": 2.29,
+      "image": "https://cdn.pixabay.com/photo/2023/04/26/19/56/pasta-7953208_640.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Cereal",
+      "price": 3.99,
+      "image": "https://beautiful.store/cdn/shop/products/61nIVsQzuRL._SS1000.jpg?v=1653040946"
+    },
+    {
+      "id": 19,
+      "name": "Peanut Butter",
+      "price": 4.99,
+      "image": "https://media.istockphoto.com/id/1297634233/vector/realistic-detailed-3d-peanut-butter-spread-set-vector.jpg?s=612x612&w=0&k=20&c=2wtjJ0alzDorGMFtYXwUQSKHbUkzM972Nz7F22NWDIM="
+    },
+    {
+        "id": 20,
+        "name": "Honey",
+        "price": 6.49,
+        "image": "https://media.istockphoto.com/id/598241944/photo/honey-in-jar-and-bunch-of-dry-lavender.jpg?s=612x612&w=0&k=20&c=gVg1BaJ78uniQbpfdFiYvMzim98gREdx-5c4ENBp2tE="
+      }
+  ]
+  
